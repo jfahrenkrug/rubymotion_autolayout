@@ -11,6 +11,8 @@ This code...
 
 … creates this view:
 
+![RubyMotion Autolayout Screenshot](https://github.com/jfahrenkrug/rubymotion_autolayout/raw/master/screenshot.png)
+
 `createViews` is a generic layout method that takes a string like shown above to build a simple UI. 
 
 At the moment it simply distributes the available screen real estate evenly to all elements.
